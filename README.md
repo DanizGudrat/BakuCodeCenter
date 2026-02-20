@@ -2,7 +2,7 @@
 
 This project is a pixel-perfect implementation of the Baku Code Center (BCC) landing page, developed based on specific Figma design requirements. It features a modern, fully responsive layout with interactive elements.
 
-## 🚀 Project Overview
+##  Project Overview
 
 The current implementation focuses on the **Home Page (`index.html`)**, serving as the main entry point for the website. The design prioritizes user experience across all devices (Desktop, Tablet, and Mobile), ensuring visual consistency with the provided design mockups.
 
@@ -26,7 +26,7 @@ The current implementation focuses on the **Home Page (`index.html`)**, serving 
     *   Header scroll behaviors.
     *   Slider functionality (if applicable).
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 bcc/
@@ -40,7 +40,7 @@ bcc/
 └── README.md
 ```
 
-## 🗺️ Roadmap & Future Pages
+##  Roadmap & Future Pages
 
 Currently, the project consists of the single-page landing layout. The following pages are planned for future development and will be linked from the navigation menu:
 
@@ -51,7 +51,7 @@ Currently, the project consists of the single-page landing layout. The following
 - [ ] **About (Haqqımızda):** Detailed company history and mission.
 - [ ] **Contact (Əlaqə):** Contact form and location details.
 
-## 📦 How to Run
+##  How to Run
 
 1.  Clone or download the repository.
 2.  Open the `index.html` file in any modern web browser.
