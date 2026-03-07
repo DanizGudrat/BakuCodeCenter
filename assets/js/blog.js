@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Generate Cards
         blogPosts.forEach(post => {
             const cardLink = document.createElement('a');
-            cardLink.href = `blog-single.html?slug=${post.slug}`;
+            cardLink.href = `blog-details.html?slug=${post.slug}`;
             cardLink.className = 'blog-card';
 
 
